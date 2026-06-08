@@ -1,5 +1,11 @@
 <div align="center">
   <h1>Semantic Fashion Search System</h1>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Model-CLIP-blueviolet?style=for-the-badge&logo=openai" />
+    <img src="https://img.shields.io/badge/Framework-PyTorch-ee4c2c?style=for-the-badge&logo=pytorch" />
+    <img src="https://img.shields.io/badge/Library-HuggingFace-ffcc00?style=for-the-badge" />
+  </p>
+<p align="center">
   <p>
     <b>Разработка поисковой системы для маркетплейса одежды, которая понимает текстовые запросы на естественном языке (Natural Language Search) и сопоставляет их с изображениями товаров.</b>
   </p>
