@@ -55,6 +55,6 @@
   </p>
 </div>
 <hr>
-<div align="center">
-  <p><i>Project by Scorpinok</i></p>
+<div align="left">
+  <p><i>Итоговый проект курса Яндекс.Практикум «Обработка естественного языка — NLP»</i></p>
 </div>
